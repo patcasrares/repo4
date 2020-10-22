@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+header {
+    background: #1e90ff;
+    padding:30px;
+}
+
+body {
+    background: yellow;
+}
+
+header > h1 {
+    color : whitesmoke;
+    font-family: Lobster;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.move {
+    font-size:20px;
+    color: red;
+}
+
+.move > p {
+    text-align: center;
+    font-weight: bold;
+    font-family: Asap, sans-serif;
+}
+
+.move > div {
+    text-align: center;
+    font-weight: bold;
+    font-family: Asap, sans-serif;
+}
